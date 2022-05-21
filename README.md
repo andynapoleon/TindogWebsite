@@ -1,2 +1,2 @@
-# bootstrap-tutorial-project
-A website built using Bootstrap 5 - learned from a Udemy course
+# TinDog Website
+A Tinder website built not for humans, but for dogs! HTML, CSS and Bootstrap 5 used!
